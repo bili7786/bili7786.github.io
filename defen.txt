@@ -1,1 +1,1 @@
-https://definitionupdates.microsoft.com/download/DefinitionUpdates/VersionedSignatures/AM/1.359.278.0/1.1.18900.3/x86/mpam-fe.exe
+http://definitionupdates.microsoft.com/download/DefinitionUpdates/VersionedSignatures/AM/1.359.278.0/1.1.18900.3/x86/mpam-fe.exe
