@@ -23,7 +23,7 @@ _1809x32=http://catalog.s.download.windowsupdate.com/d/msdownload/update/softwar
 _21H2x32=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014699-x86_916966df97853467bae23eeb27fe3d9a938e459e.msu
 
 ; 2022-适用于 Windows 10 Version 21H2 的 06 累积更新，适合基于 x64 的系统 
-_21H2x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014699-arm64_ca2074dc96dbf5e74aee768322b417877bd0835d.msu
+_21H2x64=http://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2022/06/windows10.0-kb5014699-x64_202eb4370b02f689b4904b69f13076b66ce5e1f1.cab
 
 
 ; 2022-适用于 Windows 10 Version 1607 的 04 累积更新，适合基于 x64 的系统
